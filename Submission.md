@@ -1,9 +1,9 @@
 # Jest Workshop Submission
 
 ## Student Details
-- Name:
-- Roll Number:
-- GitHub Username:
+- Name: Amrit Kumar Mahto
+- Roll Number: 2024-B-21072005
+- GitHub Username: THE-Amrit-mahto-05
 
 ---
 
